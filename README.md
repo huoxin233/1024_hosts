@@ -18,3 +18,5 @@ https://raw.githubusercontent.com/yous/YousList/master/hosts.txt
 https://hosts.nfz.moe/full/hosts  
 
 另外发现这些 hosts 有部分误伤，建议将 whitelist 中规则加入白名单
+# ---------------------------------------------------------------------------
+## 2021年12月19日 移除 www.roblox.com
